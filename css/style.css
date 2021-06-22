@@ -103,18 +103,6 @@ section {
   font-weight: 800;
 }
 
-/* @media screen and (max-width: 1200px) {
-  .jumbotron h1 {
-    margin-top: 80px;
-  }
-}
-
-@media screen and (max-width: 992px) {
-  .jumbotron h1 {
-    margin-top: 30px;
-  }
-} */
-
 .jumbotron .lead {
   color: white;
   font-weight: 400;
