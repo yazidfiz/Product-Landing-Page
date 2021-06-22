@@ -74,6 +74,18 @@ header #navbarNav {
   .bg-dark.scrolled {
     background: transparent !important;
   }
+
+  .col.text-left {
+    order: 2;
+  }
+
+  .col-lg-auto.text-center {
+    order: 1;
+  }
+
+  img.img-about {
+    max-width: 400px !important;
+  }
 }
 
 .jumbotron {
